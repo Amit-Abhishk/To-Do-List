@@ -24,6 +24,7 @@
 - CSS custom properties
 - Node
 - EJS
+- Javascript
 
 ### What I learned
 - Learned to built my own server using node
